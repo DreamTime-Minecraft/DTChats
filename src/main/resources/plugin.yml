@@ -1,0 +1,10 @@
+name: Chats
+version: ${project.version}
+main: ru.buseso.dreamtime.bungee.chats.Chats
+description: Hard
+
+commands:
+  sc:
+    description: Simple StaffChat
+  dc:
+    description: Simple DonateChat

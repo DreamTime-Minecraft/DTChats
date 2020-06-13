@@ -1,0 +1,10 @@
+name: Chats
+version: 1.0-SNAPSHOT
+main: ru.buseso.dreamtime.bungee.chats.Chats
+description: Hard
+
+commands:
+  sc:
+    description: Simple StaffChat
+  dc:
+    description: Simple DonateChat
